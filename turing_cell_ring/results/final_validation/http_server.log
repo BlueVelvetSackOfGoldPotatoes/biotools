@@ -1,0 +1,2 @@
+Turing ring backend listening on http://127.0.0.1:18091
+Serving static files from "/home/potatosalad/Documents/projects/turing_cell_ring/./build/../frontend/dist"

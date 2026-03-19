@@ -1,0 +1,120 @@
+== npm --prefix frontend run build ==
+
+> turing-ring-frontend@0.1.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 36 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   0.41 kB │ gzip:  0.27 kB
+dist/assets/index-Jh7ucqcf.css    3.54 kB │ gzip:  1.29 kB
+dist/assets/index-Cp72FQAD.js   156.45 kB │ gzip: 49.28 kB
+✓ built in 519ms
+
+== npm --prefix frontend run build ==
+
+> turing-ring-frontend@0.1.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 36 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   0.41 kB │ gzip:  0.27 kB
+dist/assets/index-Jh7ucqcf.css    3.54 kB │ gzip:  1.29 kB
+dist/assets/index-Cp72FQAD.js   156.45 kB │ gzip: 49.28 kB
+✓ built in 552ms
+
+== npm --prefix frontend run build ==
+
+> turing-ring-frontend@0.1.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 36 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   0.41 kB │ gzip:  0.27 kB
+dist/assets/index-Jh7ucqcf.css    3.54 kB │ gzip:  1.29 kB
+dist/assets/index-Cp72FQAD.js   156.45 kB │ gzip: 49.28 kB
+✓ built in 496ms
+
+== npm --prefix frontend run build ==
+
+> turing-ring-frontend@0.1.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 36 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   0.41 kB │ gzip:  0.27 kB
+dist/assets/index-Jh7ucqcf.css    3.54 kB │ gzip:  1.29 kB
+dist/assets/index-Cp72FQAD.js   156.45 kB │ gzip: 49.28 kB
+✓ built in 518ms
+
+== npm --prefix frontend run build ==
+
+> turing-ring-frontend@0.1.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 36 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   0.41 kB │ gzip:  0.27 kB
+dist/assets/index-Jh7ucqcf.css    3.54 kB │ gzip:  1.29 kB
+dist/assets/index-Cp72FQAD.js   156.45 kB │ gzip: 49.28 kB
+✓ built in 479ms
+
+== npm --prefix frontend run build ==
+
+> turing-ring-frontend@0.1.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 36 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   0.41 kB │ gzip:  0.27 kB
+dist/assets/index-Jh7ucqcf.css    3.54 kB │ gzip:  1.29 kB
+dist/assets/index-Cp72FQAD.js   156.45 kB │ gzip: 49.28 kB
+✓ built in 490ms
+
+== npm --prefix frontend run build ==
+
+> turing-ring-frontend@0.1.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 37 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   0.41 kB │ gzip:  0.28 kB
+dist/assets/index-ACj1AjXK.css    5.11 kB │ gzip:  1.79 kB
+dist/assets/index-CuTYp5UU.js   166.66 kB │ gzip: 51.85 kB
+✓ built in 552ms
+
+== npm --prefix frontend run build ==
+
+> turing-ring-frontend@0.1.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 37 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   0.41 kB │ gzip:  0.27 kB
+dist/assets/index-ACj1AjXK.css    5.11 kB │ gzip:  1.79 kB
+dist/assets/index-BuudFr_B.js   168.41 kB │ gzip: 52.12 kB
+✓ built in 556ms
+

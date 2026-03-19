@@ -1,0 +1,15 @@
+build/
+prebuilt/
+frontend/node_modules/
+frontend/dist/
+
+report/*.aux
+report/*.log
+report/*.out
+
+results/final_validation/reduced_xy/
+results/final_validation/full_chemistry/
+results/final_validation/historical_comparisons/quick_historical.json
+
+.DS_Store
+turing_cell_ring.pdf

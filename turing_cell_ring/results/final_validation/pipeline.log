@@ -1,0 +1,21 @@
+[2026-03-19T16:56:34+01:00] Running: cmake -S . -B build
+[2026-03-19T16:56:34+01:00] Completed: cmake -S . -B build
+[2026-03-19T16:56:34+01:00] Running: cmake --build build -j
+[2026-03-19T16:56:34+01:00] Completed: cmake --build build -j
+[2026-03-19T16:56:34+01:00] Running: ctest --test-dir build --output-on-failure
+[2026-03-19T16:56:40+01:00] Completed: ctest --test-dir build --output-on-failure
+[2026-03-19T16:56:40+01:00] Running: npm --prefix frontend ci
+[2026-03-19T16:56:42+01:00] Completed: npm --prefix frontend ci
+[2026-03-19T16:56:42+01:00] Running: npm --prefix frontend run build
+[2026-03-19T16:56:42+01:00] Completed: npm --prefix frontend run build
+[2026-03-19T16:56:42+01:00] Starting backend server on http://127.0.0.1:18091
+[2026-03-19T16:56:42+01:00] Running HTTP smoke checks
+[2026-03-19T16:56:43+01:00] Running: ./build/turing_ring_validate --output-dir /home/potatosalad/Documents/projects/turing_cell_ring/results/final_validation --replicates 512 --seed-search 64
+[2026-03-19T16:59:31+01:00] Completed: ./build/turing_ring_validate --output-dir /home/potatosalad/Documents/projects/turing_cell_ring/results/final_validation --replicates 512 --seed-search 64
+[2026-03-19T16:59:31+01:00] Running: env VALIDATION_DIR=/home/potatosalad/Documents/projects/turing_cell_ring/results/final_validation python3 report/generate_hypothesis_figures.py
+[2026-03-19T16:59:34+01:00] Completed: env VALIDATION_DIR=/home/potatosalad/Documents/projects/turing_cell_ring/results/final_validation python3 report/generate_hypothesis_figures.py
+[2026-03-19T16:59:34+01:00] Running: pdflatex -interaction=nonstopmode -halt-on-error -output-directory /home/potatosalad/Documents/projects/turing_cell_ring/report /home/potatosalad/Documents/projects/turing_cell_ring/report/turing_ring_validation_report.tex
+[2026-03-19T16:59:34+01:00] Completed: pdflatex -interaction=nonstopmode -halt-on-error -output-directory /home/potatosalad/Documents/projects/turing_cell_ring/report /home/potatosalad/Documents/projects/turing_cell_ring/report/turing_ring_validation_report.tex
+[2026-03-19T16:59:34+01:00] Running: pdflatex -interaction=nonstopmode -halt-on-error -output-directory /home/potatosalad/Documents/projects/turing_cell_ring/report /home/potatosalad/Documents/projects/turing_cell_ring/report/turing_ring_validation_report.tex
+[2026-03-19T16:59:34+01:00] Completed: pdflatex -interaction=nonstopmode -halt-on-error -output-directory /home/potatosalad/Documents/projects/turing_cell_ring/report /home/potatosalad/Documents/projects/turing_cell_ring/report/turing_ring_validation_report.tex
+[2026-03-19T16:59:34+01:00] Validation pipeline completed successfully

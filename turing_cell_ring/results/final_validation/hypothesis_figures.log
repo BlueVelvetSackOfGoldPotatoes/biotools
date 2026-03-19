@@ -1,0 +1,4 @@
+== env VALIDATION_DIR=/home/potatosalad/Documents/projects/turing_cell_ring/results/final_validation python3 report/generate_hypothesis_figures.py ==
+
+== env VALIDATION_DIR=/home/potatosalad/Documents/projects/turing_cell_ring/results/final_validation python3 report/generate_hypothesis_figures.py ==
+

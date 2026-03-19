@@ -1,0 +1,112 @@
+== npm --prefix frontend ci ==
+
+added 62 packages, and audited 63 packages in 731ms
+
+7 packages are looking for funding
+  run `npm fund` for details
+
+2 moderate severity vulnerabilities
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+
+== npm --prefix frontend ci ==
+
+added 62 packages, and audited 63 packages in 622ms
+
+7 packages are looking for funding
+  run `npm fund` for details
+
+2 moderate severity vulnerabilities
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+
+== npm --prefix frontend ci ==
+
+added 62 packages, and audited 63 packages in 671ms
+
+7 packages are looking for funding
+  run `npm fund` for details
+
+2 moderate severity vulnerabilities
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+
+== npm --prefix frontend ci ==
+
+added 62 packages, and audited 63 packages in 615ms
+
+7 packages are looking for funding
+  run `npm fund` for details
+
+2 moderate severity vulnerabilities
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+
+== npm --prefix frontend ci ==
+
+added 62 packages, and audited 63 packages in 866ms
+
+7 packages are looking for funding
+  run `npm fund` for details
+
+2 moderate severity vulnerabilities
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+
+== npm --prefix frontend ci ==
+
+added 62 packages, and audited 63 packages in 711ms
+
+7 packages are looking for funding
+  run `npm fund` for details
+
+2 moderate severity vulnerabilities
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+
+== npm --prefix frontend ci ==
+
+added 62 packages, and audited 63 packages in 841ms
+
+7 packages are looking for funding
+  run `npm fund` for details
+
+2 moderate severity vulnerabilities
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+
+== npm --prefix frontend ci ==
+
+added 62 packages, and audited 63 packages in 1s
+
+7 packages are looking for funding
+  run `npm fund` for details
+
+2 moderate severity vulnerabilities
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+

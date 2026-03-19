@@ -1,0 +1,9 @@
+[2026-03-19T16:56:42+01:00] Running HTTP smoke checks
+GET / -> 200
+GET /api/presets -> ok
+POST /api/analyze -> ok
+POST /api/simulate -> ok
+POST /api/batch -> ok
+POST /api/analyze (Table 2) -> ok
+POST /api/simulate (wave e) -> ok
+POST /api/simulate (historical) -> ok

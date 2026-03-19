@@ -1,0 +1,69 @@
+{
+  "generatedAt": "2026-03-19 16:59:31",
+  "sourceSummary": "results/final_validation/summary.json",
+  "figures": {
+    "H1": {
+      "file": "h1_homogeneity_break.pdf",
+      "incipientTime": 37.5300000000011,
+      "finalTime": 80.0
+    },
+    "H2": {
+      "file": "h2_diffusion_instability.pdf",
+      "thresholdGamma": 0.008521614723576931,
+      "peakGamma": 0.0625,
+      "maxGrowthWithDiffusionAtPeak": 0.022453203002444688,
+      "maxGrowthWithoutDiffusionAtPeak": -0.2199630292474701,
+      "mode3GrowthAtPeak": 0.022453203002444688,
+      "mode4GrowthAtPeak": 0.019971035858398767
+    },
+    "H3": {
+      "file": "h3_stationary_mode_selection.pdf",
+      "dominantMode": 3,
+      "mode3Growth": 0.022453203002444508,
+      "mode4Growth": 0.01997103585839863,
+      "mode3FinalAmplitude": 0.804946320740023,
+      "mode4FinalAmplitude": 0.1557989794933434
+    },
+    "H4": {
+      "file": "h4_noise_seeded_divergence.pdf",
+      "winnerCounts": {
+        "3": 6,
+        "4": 2
+      }
+    },
+    "H5": {
+      "file": "h5_quick_mode_competition.pdf",
+      "reducedShareMode3": 0.732421875,
+      "reducedShareMode4": 0.267578125,
+      "fullShareMode3": 0.7109375,
+      "fullShareMode4": 0.2890625
+    },
+    "H6": {
+      "file": "h6_slow_cooking_regularization.pdf",
+      "reducedQuickRegularity": 0.36076106309065653,
+      "reducedSlowRegularity": 0.42057854005079887,
+      "fullQuickRegularity": 0.3608346482402694,
+      "fullSlowRegularity": 0.418985345217122
+    },
+    "Table2": {
+      "file": "table2_stable_ring.pdf",
+      "modernInitialMaxAbsErrorX": 0.0007951462437096879,
+      "modernInitialMaxAbsErrorY": 0.0019379462044713822,
+      "modernMaxAbsErrorX": 7.066076387118869e-06,
+      "modernMaxAbsErrorY": 2.7332335239549366e-06,
+      "historicalMaxAbsErrorX": 0.0015000000000000568,
+      "historicalMaxAbsErrorY": 0.0016999999999995907
+    },
+    "Oscillatory": {
+      "file": "oscillatory_cases.pdf",
+      "caseEDominantMode": 3,
+      "caseFDominantMode": 10
+    },
+    "Historical": {
+      "file": "historical_quick_comparison.pdf",
+      "historicalProfileId": "historic_1952_baseline",
+      "quickDeltaX": 1.1838663347430716,
+      "quickDeltaY": 1.764344770962721
+    }
+  }
+}

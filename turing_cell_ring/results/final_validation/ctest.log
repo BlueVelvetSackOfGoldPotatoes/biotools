@@ -1,0 +1,80 @@
+== ctest --test-dir build --output-on-failure ==
+Internal ctest changing into directory: /home/potatosalad/Documents/projects/turing_cell_ring/build
+Test project /home/potatosalad/Documents/projects/turing_cell_ring/build
+    Start 1: turing_ring_regression_tests
+1/1 Test #1: turing_ring_regression_tests .....   Passed    4.97 sec
+
+100% tests passed, 0 tests failed out of 1
+
+Total Test time (real) =   4.97 sec
+
+== ctest --test-dir build --output-on-failure ==
+Internal ctest changing into directory: /home/potatosalad/Documents/projects/turing_cell_ring/build
+Test project /home/potatosalad/Documents/projects/turing_cell_ring/build
+    Start 1: turing_ring_regression_tests
+1/1 Test #1: turing_ring_regression_tests .....   Passed    4.92 sec
+
+100% tests passed, 0 tests failed out of 1
+
+Total Test time (real) =   4.92 sec
+
+== ctest --test-dir build --output-on-failure ==
+Internal ctest changing into directory: /home/potatosalad/Documents/projects/turing_cell_ring/build
+Test project /home/potatosalad/Documents/projects/turing_cell_ring/build
+    Start 1: turing_ring_regression_tests
+1/1 Test #1: turing_ring_regression_tests .....   Passed    5.05 sec
+
+100% tests passed, 0 tests failed out of 1
+
+Total Test time (real) =   5.06 sec
+
+== ctest --test-dir build --output-on-failure ==
+Internal ctest changing into directory: /home/potatosalad/Documents/projects/turing_cell_ring/build
+Test project /home/potatosalad/Documents/projects/turing_cell_ring/build
+    Start 1: turing_ring_regression_tests
+1/1 Test #1: turing_ring_regression_tests .....   Passed    5.08 sec
+
+100% tests passed, 0 tests failed out of 1
+
+Total Test time (real) =   5.08 sec
+
+== ctest --test-dir build --output-on-failure ==
+Internal ctest changing into directory: /home/potatosalad/Documents/projects/turing_cell_ring/build
+Test project /home/potatosalad/Documents/projects/turing_cell_ring/build
+    Start 1: turing_ring_regression_tests
+1/1 Test #1: turing_ring_regression_tests .....   Passed    5.16 sec
+
+100% tests passed, 0 tests failed out of 1
+
+Total Test time (real) =   5.16 sec
+
+== ctest --test-dir build --output-on-failure ==
+Internal ctest changing into directory: /home/potatosalad/Documents/projects/turing_cell_ring/build
+Test project /home/potatosalad/Documents/projects/turing_cell_ring/build
+    Start 1: turing_ring_regression_tests
+1/1 Test #1: turing_ring_regression_tests .....   Passed    5.15 sec
+
+100% tests passed, 0 tests failed out of 1
+
+Total Test time (real) =   5.15 sec
+
+== ctest --test-dir build --output-on-failure ==
+Internal ctest changing into directory: /home/potatosalad/Documents/projects/turing_cell_ring/build
+Test project /home/potatosalad/Documents/projects/turing_cell_ring/build
+    Start 1: turing_ring_regression_tests
+1/1 Test #1: turing_ring_regression_tests .....   Passed    5.16 sec
+
+100% tests passed, 0 tests failed out of 1
+
+Total Test time (real) =   5.17 sec
+
+== ctest --test-dir build --output-on-failure ==
+Internal ctest changing into directory: /home/potatosalad/Documents/projects/turing_cell_ring/build
+Test project /home/potatosalad/Documents/projects/turing_cell_ring/build
+    Start 1: turing_ring_regression_tests
+1/1 Test #1: turing_ring_regression_tests .....   Passed    6.34 sec
+
+100% tests passed, 0 tests failed out of 1
+
+Total Test time (real) =   6.34 sec
+

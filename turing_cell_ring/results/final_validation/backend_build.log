@@ -1,0 +1,106 @@
+== cmake -S . -B build ==
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/potatosalad/Documents/projects/turing_cell_ring/build
+
+== cmake --build build -j ==
+[ 53%] Built target turing_ring_core
+[ 69%] Built target turing_ring_regression_tests
+[ 84%] Built target turing_ring_validate
+[100%] Built target turing_ring_backend
+
+== cmake -S . -B build ==
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/potatosalad/Documents/projects/turing_cell_ring/build
+
+== cmake --build build -j ==
+[ 53%] Built target turing_ring_core
+[ 69%] Built target turing_ring_regression_tests
+[ 84%] Built target turing_ring_validate
+[100%] Built target turing_ring_backend
+
+== cmake -S . -B build ==
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/potatosalad/Documents/projects/turing_cell_ring/build
+
+== cmake --build build -j ==
+[ 53%] Built target turing_ring_core
+[ 69%] Built target turing_ring_regression_tests
+[ 84%] Built target turing_ring_validate
+[100%] Built target turing_ring_backend
+
+== cmake -S . -B build ==
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/potatosalad/Documents/projects/turing_cell_ring/build
+
+== cmake --build build -j ==
+[ 53%] Built target turing_ring_core
+[ 69%] Built target turing_ring_regression_tests
+[ 76%] Building CXX object CMakeFiles/turing_ring_validate.dir/backend/src/validate.cpp.o
+[ 92%] Built target turing_ring_backend
+[100%] Linking CXX executable turing_ring_validate
+[100%] Built target turing_ring_validate
+
+== cmake -S . -B build ==
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/potatosalad/Documents/projects/turing_cell_ring/build
+
+== cmake --build build -j ==
+[  6%] Building CXX object CMakeFiles/turing_ring_core.dir/backend/src/model.cpp.o
+[ 13%] Linking CXX static library libturing_ring_core.a
+[ 46%] Built target turing_ring_core
+[ 53%] Linking CXX executable turing_ring_regression_tests
+[ 60%] Linking CXX executable turing_ring_validate
+[ 66%] Linking CXX executable turing_ring_calibrate_capture
+[ 73%] Linking CXX executable turing_ring_backend
+[ 80%] Built target turing_ring_regression_tests
+[ 86%] Built target turing_ring_calibrate_capture
+[ 93%] Built target turing_ring_validate
+[100%] Built target turing_ring_backend
+
+== cmake -S . -B build ==
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/potatosalad/Documents/projects/turing_cell_ring/build
+
+== cmake --build build -j ==
+[  6%] Building CXX object CMakeFiles/turing_ring_core.dir/backend/src/model.cpp.o
+[ 13%] Linking CXX static library libturing_ring_core.a
+[ 46%] Built target turing_ring_core
+[ 53%] Linking CXX executable turing_ring_regression_tests
+[ 60%] Linking CXX executable turing_ring_validate
+[ 66%] Linking CXX executable turing_ring_calibrate_capture
+[ 73%] Linking CXX executable turing_ring_backend
+[ 80%] Built target turing_ring_regression_tests
+[ 93%] Built target turing_ring_validate
+[ 93%] Built target turing_ring_calibrate_capture
+[100%] Built target turing_ring_backend
+
+== cmake -S . -B build ==
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/potatosalad/Documents/projects/turing_cell_ring/build
+
+== cmake --build build -j ==
+[ 46%] Built target turing_ring_core
+[ 60%] Built target turing_ring_regression_tests
+[ 73%] Built target turing_ring_calibrate_capture
+[ 86%] Built target turing_ring_validate
+[100%] Built target turing_ring_backend
+
+== cmake -S . -B build ==
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/potatosalad/Documents/projects/turing_cell_ring/build
+
+== cmake --build build -j ==
+[ 46%] Built target turing_ring_core
+[ 60%] Built target turing_ring_validate
+[ 73%] Built target turing_ring_calibrate_capture
+[ 86%] Built target turing_ring_regression_tests
+[100%] Built target turing_ring_backend
+
