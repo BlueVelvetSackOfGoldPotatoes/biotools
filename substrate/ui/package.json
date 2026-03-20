@@ -1,0 +1,30 @@
+{
+  "name": "substrate-ui",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently -k \"npm:dev:api\" \"npm:dev:web\"",
+    "dev:stop": "bash scripts/stop_dev_stack.sh",
+    "dev:restart": "npm run dev:stop && npm run dev",
+    "dev:api": "node api/server.mjs",
+    "dev:web": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "check:cellengine-runtime": "node scripts/cellengine_runtime_harness.mjs",
+    "check:cellengine-burnin": "node scripts/cellengine_burnin.mjs"
+  },
+  "dependencies": {
+    "csv-parse": "^5.5.6",
+    "express": "^4.21.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "recharts": "^2.12.7"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.0.1",
+    "concurrently": "^9.2.1",
+    "playwright-core": "^1.58.2",
+    "vite": "^8.0.0"
+  }
+}

@@ -1,0 +1,1 @@
+"""Plot generation entrypoints."""

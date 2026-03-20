@@ -1,0 +1,47 @@
+# Build artifacts
+build/
+*.o
+*.so
+*.so.*
+*.a
+*.dylib
+*.dll
+*.exe
+*.out
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+*.whl
+
+# Node
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Substrate artifacts
+substrate/runs/
+substrate/bin/
+substrate/obj/
+substrate/output/
+substrate/reports/
+substrate/test-results/
+substrate/logs/
+substrate/dist/
+substrate/data/*.ubyte
+substrate/data/*-idx*
+
+# Large build workspaces
+mcell_tools/work/

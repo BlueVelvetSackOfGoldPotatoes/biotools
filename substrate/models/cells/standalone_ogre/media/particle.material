@@ -1,0 +1,19 @@
+material Cells/Particles
+{
+    technique
+    {
+        pass
+        {
+            lighting off
+            point_size 6
+            diffuse 0.95 0.80 0.20 1.0
+            ambient 0.60 0.48 0.10 1.0
+            scene_blend alpha_blend
+            depth_write off
+            texture_unit
+            {
+                texture particle.png
+            }
+        }
+    }
+}

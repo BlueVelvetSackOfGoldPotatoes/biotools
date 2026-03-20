@@ -1,0 +1,19 @@
+# Build artifacts
+/build/
+/bin/
+/obj/
+
+# Generated outputs
+/output/
+/runs/
+/reports/
+
+# Editor/system files
+.DS_Store
+*.swp
+*.swo
+
+# Python artifacts
+__pycache__/
+*.pyc
+.pytest_cache/

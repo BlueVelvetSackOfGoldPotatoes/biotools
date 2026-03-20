@@ -1,0 +1,14 @@
+material Cells/Membrane
+{
+    technique
+    {
+        pass
+        {
+            lighting on
+            diffuse 0.25 0.70 0.45 1.0
+            ambient 0.10 0.18 0.12 1.0
+            specular 0.70 0.90 0.80 1.0 32
+            cull_hardware none
+        }
+    }
+}
